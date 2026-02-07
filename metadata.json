@@ -1,0 +1,5 @@
+{
+  "name": "AuthMaster: Secure User Management",
+  "description": "A comprehensive full-stack simulation featuring user registration, secure login, protected routes, and an administrative dashboard for user oversight and state management.",
+  "requestFramePermissions": []
+}
